@@ -62,6 +62,6 @@ class ProfilesController < ApplicationController
   end
 
    def notify_api2_on_create(data)
-   	puts "Notified about change data: #{data}"
+   	puts "Notified about change data: #{data} "
   end
 end

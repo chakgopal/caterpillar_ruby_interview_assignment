@@ -27,6 +27,7 @@ module WebhookDemo
         create: :notify_api2_on_create
       }
     }
+    
     # These settings can be overridden in specific environments using the files
     # in config/environments, which are processed later.
     #
